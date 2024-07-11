@@ -1,6 +1,4 @@
----
-title: Welcome to my blog
----
+
 # My Journey to a Career in Tech
 
 ## Introduction
